@@ -1,3 +1,6 @@
+## Click here to view the video explanation
+https://www.loom.com/share/87421ece6e8b44a8a90173fdb6f034ef
+
 # Flask CI/CD Project
 
 I developed a Flask web application using Python and implemented a complete CI/CD workflow.
